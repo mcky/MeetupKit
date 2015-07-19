@@ -1,0 +1,30 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+node_modules
+node_modules/
+
+app/public/js/bundle.js
+app/public/css/style.css
+public/js/browserify/bundle.js
+
+.env
+
+*.sublime-project
+*.sublime-workspace
+.sass_cache
+*.scssc
+*.css.map
